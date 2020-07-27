@@ -1,2 +1,2 @@
 # tabuyos-quarkus
-Quarkus for Tabuyos
+Quarkus build by gradle and maven
