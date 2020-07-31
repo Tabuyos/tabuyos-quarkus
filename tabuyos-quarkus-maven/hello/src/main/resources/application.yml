@@ -1,0 +1,9 @@
+quarkus:
+  http:
+    port: 8000
+    host: localhost
+  banner:
+    enabled: false
+
+xxxx:
+  address: https://localhost:10000/registerCentral, https://localhost:10000/registerCentral, https://localhost:10000/registerCentral

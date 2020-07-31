@@ -1,0 +1,4 @@
+quarkus:
+  http:
+    test-port: 8003
+    test-ssl-port: 8004
